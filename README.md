@@ -1,5 +1,6 @@
 # DeboraPivatto
 🎯 Analista de Dados Júnior | Data Analyst | Analyst Data | Analyst Business | Health Intelligence Analyst | SQL | Python | Excel | Power BI | Tableau | Data Visualization
+
 🚀 Quem sou eu:
 Com mais de 20 anos de experiência como farmacêutico, com foco em saúde, bem-estar e beleza, atuei em áreas como monitoramento farmacoterapêutico e atendimento personalizado ao paciente. Ao longo dessa trajetória, adquiri uma visão holística da qualidade de vida, compreendendo como fatores físicos e mentais influenciam o bem-estar.
 
