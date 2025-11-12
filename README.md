@@ -14,7 +14,6 @@ Languages & Data: Python (Pandas, Matplotlib, Seaborn, Plotly), SQL
 Visualisation & BI: Tableau, Power BI, Streamlit, Dash
 Analytics: Data cleaning, Exploratory Data Analysis, Hypothesis Testing, A/B Testing
 Productivity: Excel / Google Sheets
-Soft skills: Project coordination, Problem-solving, Communication, Cross-cultural teamwork
 
 Idiomas: Português (nativo), Inglês (fluente).
 
