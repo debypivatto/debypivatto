@@ -1,25 +1,36 @@
-# Olá, eu sou a Debora Pivatto 👋  
+# 👋 Olá, eu sou a **Debora Pivatto**
 
-🎯 Analista de Dados Júnior | Data Analyst | Analyst Data | Analyst Business | Health Intelligence Analyst | SQL | Python | Excel | Power BI | Tableau | Data Visualization
+🎯 **Analista de Dados Júnior | Data Analyst | Business Analyst | Health Intelligence Analyst**  
+💻 **SQL | Python | Excel | Power BI | Tableau | Data Visualization**
 
-🚀 Quem sou eu:
-Com mais de 20 anos de experiência como farmacêutica, com foco em saúde, bem-estar e beleza, atuei em áreas como monitoramento farmacoterapêutico e atendimento personalizado ao paciente. Ao longo dessa trajetória, adquiri uma visão holística da qualidade de vida, compreendendo como fatores físicos e mentais influenciam o bem-estar. Atuei no Brasil e tambem na Irlanda como professional da saude me fazendo uma profissional que consegue transitar entre varias realidades e tecnologias.
+---
 
-Minha formação em Gestão de Negócios, Pessoas e Estética Avançada me permitiu desenvolver habilidades estratégicas em gestão de equipes, treinamento de liderança e tomada de decisões. Com 10 anos de experiência em cargos de liderança, trabalhei na gestão de pessoas e de novas lideranças, compras, gestão de estoques, treinamentos e soluções para problemas complexos.
+## 🚀 Quem sou eu
 
-A transição para Análise de Dados é um passo natural, pois sempre utilizei dados para fundamentar minhas decisões, seja na gestão de equipes ou no desenvolvimento de estratégias para atendimento e bem-estar. Agora, com foco em análise quantitativa e tecnologia, busco aprofundar minhas habilidades em Python, SQL, análise estatística e tomada de decisão orientada por dados. A migração para dados me proporciona a flexibilidade e a oportunidade de contribuir com soluções inovadoras em um cenário remoto.
+Com mais de **20 anos de experiência como farmacêutica**, atuando nas áreas de **saúde, bem-estar e beleza**, desenvolvi uma visão ampla sobre qualidade de vida e como fatores físicos e mentais influenciam o bem-estar. Trabalhei tanto no **Brasil** quanto na **Irlanda**, o que me tornou uma profissional adaptável, capaz de transitar entre diferentes culturas e tecnologias.
 
-💼 Tecnologias & Ferramentas  
-- Linguagens: Python, SQL  
-- Visualização: Tableau, Power BI, Excel  
-- Manutenção de dados: limpeza, tratamento, automação  
-- Outros: Git, GitHub, boas práticas de análise de dados  
+Minha formação em **Gestão de Negócios, Pessoas e Estética Avançada** fortaleceu minhas habilidades em **liderança, gestão de equipes, tomada de decisão e estratégias de desenvolvimento humano**. Com mais de **10 anos em cargos de liderança**, atuei em gestão de pessoas, treinamentos, compras, controle de estoque e resolução de problemas complexos.
 
-Idiomas: Português (nativo), Inglês (fluente).
+A **transição para a área de Análise de Dados** foi um movimento natural — sempre utilizei dados como base para decisões estratégicas. Agora, foco em **Python, SQL, análise estatística e visualização de dados**, com o objetivo de gerar insights valiosos que impactem positivamente negócios e pessoas.  
+Essa nova fase me permite unir minha experiência em saúde à tecnologia e **contribuir com soluções inovadoras, inclusive em ambientes remotos**.
 
-🌐 Conecte-se comigo:
-- LinkedIn: [in/deborapivatto](https://www.linkedin.com/in/deborapivatto)  
-- GitHub: [@debypivatto](https://github.com/debypivatto)  
-- E-mail: deborapivatto@gmail.com 
+---
 
-Cidadania: Brasileira e Europeia (Passaporte Italiano).
+## 💼 Tecnologias & Ferramentas
+
+- **Linguagens:** Python, SQL  
+- **Visualização:** Tableau, Power BI, Excel  
+- **Manutenção de dados:** limpeza, tratamento, automação  
+- **Outros:** Git, GitHub, boas práticas de análise de dados  
+
+🗣️ **Idiomas:** Português (nativo), Inglês (fluente)  
+🌍 **Cidadania:** Brasileira 🇧🇷 e Europeia 🇪🇺 (Passaporte Italiano)
+
+---
+
+## 🌐 Conecte-se comigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/deborapivatto)  
+- 🧠 [GitHub](https://github.com/debypivatto)  
+- 📫 **E-mail:** deborapivatto@gmail.com  
+
