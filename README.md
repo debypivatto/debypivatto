@@ -51,16 +51,16 @@ Cada projeto aplica fluxos de trabalho analíticos reais utilizando Python, SQL,
 
 Observação: Os projetos utilizam conjuntos de dados públicos ou educacionais e representam cenários de negócios simulados.
 
-* #### 🎥 [Análise de Vídeos no YouTube](https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public)
-**Análise em Tableau **Vídeos noYouTube**, explorando *categorias, popularidade, e dinâmicas de tempo**.
-Feito com Tableau Public **Tableau Público com dashboard interativo** para visualizar tendências globais and preferências regionais (USA, França, India, Japão, Russia).
-O fluxo de trabalho abrangeu **agregação de dados, transformação, design de painéis, integração de filtros** e **extração de insights**.
-[Live Tableau Dashboard]([(https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes)] · [Presentation (PDF)]()
+🎥 Análise de Vídeos no YouTube
+*Análise em Tableau Vídeos noYouTube, explorando categorias, popularidade, e dinâmicas de tempo. Feito com Tableau Public Tableau Público com dashboard interativo para visualizar tendências globais and preferências regionais (USA, França, India, Japão, Russia). O fluxo de trabalho abrangeu agregação de dados, transformação, design de painéis, integração de filtros e extração de insights. [Live Tableau Dashboard]([(https://public.tableau.com/app/profile/debora.pivatto/viz/Sprint12project/Dashboard1?publish=yes)] · Presentation (PDF)
 
-* ####  [Análise de Restaurantes em Los Angeles](https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA)
-  Iniciando com o objetivo de verificar a viabilidade de uma cafeteria modelo com garçons robotizados, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise das condições de mercado de restaurantes em Los Angeles, com apresentação PDF  [https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-/blob/main/Cafeterias%20LA.pdf]
--
+☕ Análise de Restaurantes em Los Angeles
+Estudo conduzido para avaliar a viabilidade de implantação de uma cafeteria modelo com garçons robotizados.
+Incluiu:Tratamento e limpeza dos dados, Análise Exploratória (EDA), Avaliação das condições de mercado em Los Angeles e Identificação de oportunidades e riscos
+Iniciando com o objetivo de verificar a viabilidade de uma cafeteria modelo com garçons robotizados, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise das condições de mercado de restaurantes em Los Angeles, com apresentação PDF  [https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-/blob/main/Cafeterias%20LA.pdf]
 
+
+---
 🗣️ **Idiomas:** Português (nativo), Inglês (fluente)  
 🌍 **Cidadania:** Brasileira 🇧🇷 e Europeia 🇪🇺 (Passaporte Italiano)
 
