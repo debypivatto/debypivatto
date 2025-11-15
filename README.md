@@ -27,6 +27,12 @@ Essa nova fase me permite unir minha experiência em saúde à tecnologia e **co
 - **Manutenção de dados:** limpeza, tratamento, automação  
 - **Outros:** Git, GitHub, boas práticas de análise de dados  
 
+---
+## 🎓 Certifications
+
+- 📊 **TripleTen Data Analytics Bootcamp**
+---
+
 🗣️ **Idiomas:** Português (nativo), Inglês (fluente)  
 🌍 **Cidadania:** Brasileira 🇧🇷 e Europeia 🇪🇺 (Passaporte Italiano)
 
