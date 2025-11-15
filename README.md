@@ -44,6 +44,14 @@ Essa nova fase me permite unir minha experiência em saúde à tecnologia e **co
 
 - 📊 **TripleTen Data Analytics Bootcamp**
 ---
+## 📂 Projetos em Destaque
+
+Uma seleção de projetos completos de análise de dados, demonstrando habilidades em limpeza de dados, análise exploratória, visualização e geração de insights de negócio — abrangendo os domínios de marketing, produto, educação e business intelligence.
+Cada projeto aplica fluxos de trabalho analíticos reais utilizando Python, SQL, Tableau, Power BI e Streamlit, transformando dados em insights acionáveis que apoiam a tomada de decisões orientada por dados.
+
+Observação: Os projetos utilizam conjuntos de dados públicos ou educacionais e representam cenários de negócios simulados.
+
+---
 
 🗣️ **Idiomas:** Português (nativo), Inglês (fluente)  
 🌍 **Cidadania:** Brasileira 🇧🇷 e Europeia 🇪🇺 (Passaporte Italiano)
