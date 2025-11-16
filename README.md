@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="deborapivatto@gmail.com (2).jpg" width="98%" alt="Debora Pivatto – Data Analyst">
+  <img src="pic.jpg" width="98%" alt="Debora Pivatto – Data Analyst">
 </p>
 
 # 👋 Olá, eu sou a **Debora Pivatto**
