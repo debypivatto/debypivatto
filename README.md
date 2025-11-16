@@ -84,6 +84,6 @@ A análise combina EDA (Exploratory Data Analysis, Python,  Pandas, NumP, Matplo
 ## 🌐 Conecte-se comigo
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborapivatto/)
-- 🧠 [GitHub](https://github.com/debypivatto)  
+- [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](SEU_LINK_AQUI)
 - 📫 **E-mail:** deborapivatto@gmail.com  
 
