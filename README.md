@@ -58,7 +58,8 @@ Cada projeto aplica fluxos de trabalho analíticos reais utilizando Python, SQL,
 
 Observação: Os projetos utilizam conjuntos de dados públicos ou educacionais e representam cenários de negócios simulados.
 
-* #### 🎥 Análise de Vídeos no YouTube (https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public)**
+
+* #### 🎥 [Análise de Vídeos no YouTube] (https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public)**
 
 Análise em Tableau Vídeos no YouTube, explorando categorias, popularidade, e dinâmicas de tempo.
 Feito com Tableau Public Tableau Público com dashboard interativo para visualizar tendências globais and preferências regionais (USA, França, India, Japão, Russia). 
