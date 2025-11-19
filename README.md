@@ -44,6 +44,7 @@ Essa nova fase me permite unir minha experiência em saúde à tecnologia e **co
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Dash-119DFF?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash"/>
 </p>
+
 - **Linguagens:** Python, SQL  
 - **Visualização:** Tableau, Power BI, Excel  
 - **Manutenção de dados:** limpeza, tratamento, automação  
