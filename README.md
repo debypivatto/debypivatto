@@ -79,7 +79,7 @@ Estudo conduzido para avaliar a viabilidade de implantação de uma cafeteria mo
 Incluiu:Tratamento e limpeza dos dados, Análise Exploratória (EDA), Avaliação das condições de mercado em Los Angeles e Identificação de oportunidades e riscos
 Iniciando com o objetivo de verificar a viabilidade de uma cafeteria modelo com garçons robotizados, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise das condições de mercado de restaurantes em Los Angeles, com apresentação PDF  [https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-/blob/main/Cafeterias%20LA.pdf]
 
-🛠️ Tecnologias e Bibliotecas Utilizadas
+🛠️ Tecnologias e Bibliotecas Utilizadas:
 * O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
 NumPy → cálculos estatísticos e operações numéricas
@@ -90,7 +90,8 @@ Jupyter Notebook → ambiente de desenvolvimento e análise
 
 Este projeto tem como objetivo analisar o comportamento dos clientes de uma academia, identificar fatores que influenciam o churn (evasão) e propor estratégias por meio de modelagem preditiva e segmentação de clientes.
 
-🛠️ Tecnologias e Bibliotecas Utilizadas
+🛠️ Tecnologias e Bibliotecas Utilizadas:
+
 A análise combina EDA (Exploratory Data Analysis), Machine Learning supervisionado (Regressão Logística) e Aprendizado Não Supervisionado (K-Means).
 * O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
@@ -103,7 +104,8 @@ Este projeto tem como objetivo analisar dados históricos de corridas de táxi d
 Foi também testada a hipótese:
 “A duração média das corridas do Loop para o Aeroporto O’Hare muda em sábados chuvosos.”
 
-🛠️  Tecnologias e Bibliotecas Utilizadas
+🛠️ Tecnologias e Bibliotecas Utilizadas:
+
 * O projeto foi desenvolvido em Python, utilizando as seguintes bibliotecas:
 Pandas → manipulação e limpeza de dados
 NumPy → cálculos estatísticos e operações numéricas
