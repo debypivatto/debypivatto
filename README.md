@@ -19,6 +19,16 @@ A **transição para a área de Análise de Dados** foi um movimento natural —
 Essa nova fase me permite unir minha experiência em saúde à tecnologia e **contribuir com soluções inovadoras, inclusive em ambientes remotos**.
 
 ---
+## 🎓 Formação 
+
+- **Pós Graduação em Estética Avançada** - Avantis
+- **Pós Graduação em Gestão de Empresas e de Pessoas** - Avantis
+- **Graduação em Farmácia - Bacharelado** - Univali
+---
+## 🎓 Certificações
+
+- 📊 **TripleTen Data Analytics Bootcamp**
+---
 
 ## 💼 Tecnologias & Ferramentas
 <p align="left">
@@ -40,10 +50,7 @@ Essa nova fase me permite unir minha experiência em saúde à tecnologia e **co
 - **Outros:** Git, GitHub, boas práticas de análise de dados  
 
 ---
-## 🎓 Certificações
 
-- 📊 **TripleTen Data Analytics Bootcamp**
----
 ## 📂 Projetos em Destaque
 
 Uma seleção de projetos completos de análise de dados, demonstrando habilidades em limpeza de dados, análise exploratória, visualização e geração de insights de negócio — abrangendo os domínios de marketing, produto, educação e business intelligence.
