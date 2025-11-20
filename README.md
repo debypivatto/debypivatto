@@ -22,7 +22,7 @@ A transição para Análise de Dados surgiu naturalmente: sempre utilizei dados 
 
 - **Pós Graduação em Estética Avançada** - Avantis
 - **Pós Graduação em Gestão de Empresas e de Pessoas** - Avantis
-- **Graduação em Farmácia - Bacharelado** - Univali
+- **Graduação em Farmácia (Bacharelado)** - Univali
 ---
 ## 🎓 Certificações
 
