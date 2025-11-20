@@ -21,9 +21,9 @@ Essa nova fase me permite unir minha experiência em saúde à tecnologia e **co
 ---
 ## 🎓 Formação 
 
-- **Pós Graduação em Estética Avançada** - Avantis
-- **Pós Graduação em Gestão de Empresas e de Pessoas** - Avantis
-- **Graduação em Farmácia - Bacharelado** - Univali
+- *Pós Graduação em Estética Avançada** - Avantis
+- *Pós Graduação em Gestão de Empresas e de Pessoas** - Avantis
+- *Graduação em Farmácia - Bacharelado** - Univali
 ---
 ## 🎓 Certificações
 
