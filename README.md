@@ -100,7 +100,7 @@ Tecnologias: Pandas, NumPy, Matplotlib, Seaborn
 
 * #### 👾 Projeto de Análise de Dados — Mercado de jogos eletrônicos, considerando lançamentos ao longo do tempo, plataformas, regiões (NA, EU, JP), vendas e avaliações de críticos e usuários (https://github.com/debypivatto/Analise-de-banco-de-dados-com-informa-es-sobre-loja-de-videogames)**
 
-Análise de banco de dados com informações sobre loja online de Videogames Projeto focado em transformar dados históricos em informações estratégicas para tomada de decisão para campanhas de marketing
+Análise de banco de dados com informações sobre loja online de Videogames. Projeto focado em transformar dados históricos em informações estratégicas para tomada de decisão para campanhas de marketing
 
 Tecnologias: Pandas, NumPy, Matplotlib, Seaborn
 
