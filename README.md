@@ -74,7 +74,7 @@ Tecnologias: Pandas, Tableau Public
 
 ---
 
-* #### 🧪Sistema Preditivo para Gestão de Medicamentos Termolábeis (https://github.com/debypivatto/-Sistema-Preditivo-para-Gestao-de-Medicamentos-Termolabeis) **
+* #### 🧪❄️ Sistema Preditivo para Gestão de Medicamentos Termolábeis (https://github.com/debypivatto/-Sistema-Preditivo-para-Gestao-de-Medicamentos-Termolabeis) **
 Sistema analítico e preditivo para gestão de estoque de medicamentos termolábeis, com foco em redução de perdas, antecipação de riscos sanitários e suporte à decisão operacional em ambientes hospitalares e farmacêuticos. O projeto integra análise exploratória, engenharia de variáveis orientada ao negócio, modelo preditivo validado e alertas operacionais acionáveis.
 Tecnologias: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
 
