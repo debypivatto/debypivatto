@@ -86,6 +86,7 @@ Entrega: relatório completo com insights estratégicos, apresentação Pptx  (h
 Estudo de mercado para avaliar a implantação de uma cafeteria com garçons robotizados em Los Angeles. Realizado EDA, segmentação de perfis, avaliação de concorrência e análise de riscos.
 
 Tecnologias: Pandas, NumPy, Matplotlib, Seaborn
+
 Entrega: relatório completo com insights estratégicos, apresentação PDF  [https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-/blob/main/Cafeterias%20LA.pdf]
 
 ---
