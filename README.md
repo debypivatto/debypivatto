@@ -78,7 +78,7 @@ Tecnologias: Pandas, Tableau Public
 Sistema analítico e preditivo para gestão de estoque de medicamentos termolábeis, com foco em redução de perdas, antecipação de riscos sanitários e suporte à decisão operacional em ambientes hospitalares e farmacêuticos. O projeto integra análise exploratória, engenharia de variáveis orientada ao negócio, modelo preditivo validado e alertas operacionais acionáveis.
 Tecnologias: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn 
 
-Entrega: relatório completo com insights estratégicos, apresentação Pptx  (https://github.com/debypivatto/Sistema-Preditivo-para-Gestao-de-Medicamentos-Termolabeis/blob/main/SIP%20final%20.pptx)
+Entrega: relatório completo com insights estratégicos, apresentação Pptx  (https://github.com/debypivatto/Sistema-Preditivo-para-Gestao-de-Medicamentos-Termolabeis/blob/main/SIP%20final%20.pptx](https://github.com/debypivatto/Sistema-Preditivo-para-Gestao-de-Medicamentos-Termolabeis/blob/main/SIP%20final.pptx)
 
 ---
 * #### ☕ Análise de Restaurantes em Los Angeles (https://github.com/debypivatto/Analise-de-Perfis-de-Restaurantes-em-Los-Angeles-LA-)**
