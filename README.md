@@ -63,8 +63,8 @@ Observação: Os projetos utilizam conjuntos de dados públicos ou educacionais 
 
 * #### 🎥 Análise de Vídeos no YouTube (https://github.com/debypivatto/Analise-de-videos-YouTube-no-Tableau-Public)**
 
-Análise de tendências globais e regionais (EUA, França, Índia, Japão, Rússia) sobre categorias, popularidade e padrões de engajamento de vídeos no YouTube.
-Etapas: agregação, transformação, design de dashboard e insights de negócio.
+Projeto de análise de dados com foco em vídeos em tendência no YouTube, utilizando Tableau para criação de dashboards interativos. Análise histórica por categoria, país
+e período, com aplicação de transformação de dados, filtros dinâmicos e extração de insights para apoiar decisões estratégicas em planejamento de conteúdo e anúncios
 
 Tecnologias: Pandas, Tableau Public
 
